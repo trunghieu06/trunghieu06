@@ -42,6 +42,8 @@ Face recognition, Count fingers, Adjust volume with hand gestures
 ### Pikachu Game (final project for Basics of programming - my subject at universtiy)
 Familiar game with new feature: **choose character** 
 
+---
+
 Feel free to check out the rest of my repositories for more projects!
 
 ---
