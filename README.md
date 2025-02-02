@@ -8,12 +8,11 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **[specific technology or skill]**
+- 🌱 I’m currently learning **Computer Science**
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **web development, algorithms, and data structures**
 - 📫 How to reach me: **[your email address]**
-- 😄 Pronouns: **they/them**
-- ⚡ Fun fact: **[a fun fact about you]**
+- 😄 Pronouns: **he/him**
 
 ## 🛠️ Technologies & Tools
 
@@ -33,27 +32,17 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 ## 📫 Contact Me
 
 - **LinkedIn**: [https://www.linkedin.com/in/trunghieu06/](https://www.linkedin.com/in/trunghieu06/)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Title of the Blog Post](URL)
-- [Title of the Blog Post](URL)
-<!-- BLOG-POST-LIST:END -->
+- **Email**: [tth696969@gmail.com](mailto:tth696969@gmail.com)
 
 ## 📚 Projects
 
 Here are some of the projects I've been working on:
 
-### Project Name 1
-Description of project 1.
+### Introduce to Computer Vision (using lib cv2)
+Face recognition, Count fingers, Adjust volume with hand gestures
 
-### Project Name 2
-Description of project 2.
-
-### Project Name 3
-Description of project 3.
+### Pikachu Game (final project for Basics of programming - my subject at universtiy)
+Familiar game with new feature: **choose character** 
 
 Feel free to check out the rest of my repositories for more projects!
 
