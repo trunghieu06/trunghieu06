@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a keen i
 - 🌱 I’m currently learning **Computer Science**
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **web development, algorithms, and data structures**
-- 📫 How to reach me: **[your email address]**
+- 📫 Reach me at: **tth696969@gmail.com**
 - 😄 Pronouns: **he/him**
 
 ## 🛠️ Technologies & Tools
