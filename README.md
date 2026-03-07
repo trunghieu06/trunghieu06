@@ -4,13 +4,13 @@
 [![Linkedin: trunghieu06](https://img.shields.io/badge/-trunghieu06-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trunghieu06/)](https://www.linkedin.com/in/trunghieu06/)
 [![GitHub trunghieu06](https://img.shields.io/github/stars/trunghieu06?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/trunghieu06)
 
-Welcome to my GitHub profile! I am a passionate software developer with a keen interest in building scalable and efficient applications. Here you'll find a collection of my projects and contributions.
+Welcome to my GitHub profile! I am a passionate AI Engineer with a keen interest in building scalable and efficient models. Here you'll find a collection of my projects and contributions.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning **Artificial Intelligence**
 - 👯 I’m looking to collaborate on **open source projects**
-- 💬 Ask me about **web development, algorithms, and data structures**
+- 💬 Ask me about **machine learning, algorithms, and data structures**
 - 📫 Reach me at: **tth696969@gmail.com**
 - 😄 Pronouns: **he/him**
 
