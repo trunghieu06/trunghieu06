@@ -23,10 +23,6 @@ Welcome to my GitHub profile! I am a passionate AI Engineer with a keen interest
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 
-## 📈 GitHub Stats
-
-[![Trung Hieu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trunghieu06&show_icons=true&hide_border=true)](https://github.com/trunghieu06)
-
 ## 📫 Contact Me
 
 - **LinkedIn**: [https://www.linkedin.com/in/trunghieu06/](https://www.linkedin.com/in/trunghieu06/)
